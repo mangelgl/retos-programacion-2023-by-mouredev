@@ -8,6 +8,9 @@
  * - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
 */
 
+/**
+ * @return string Secuencia de números del 1 al 100 con el challengue 'fizzbuzz' integrado.
+ */
 function fizzbuzz() {
     $salida = "";
     for ($i=1; $i <= 100; $i++) { 
